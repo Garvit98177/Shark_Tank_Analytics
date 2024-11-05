@@ -18,4 +18,7 @@ Shark Tank India Analytics is a data-driven project aimed at analyzing the inves
 ## Technologies Used:
 
 Programming Language: Python
-Libraries: Pandas, NumPy, Matplotlib, Seaborn
+
+
+## Libraries: 
+Pandas, NumPy, Matplotlib, Seaborn
