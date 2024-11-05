@@ -5,7 +5,8 @@ Shark Tank India Analytics is a data-driven project aimed at analyzing the inves
 
 ## Key Features:
 
-- ## Investment Analysis: ###Analyzes funding trends, investment amounts, and equity shares across different episodes and seasons.
+- ## Investment Analysis:
+  Analyzes funding trends, investment amounts, and equity shares across different episodes and seasons.
 - ## Investor Insights:
   Provides detailed profiles of investors, including their investment strategies and success rates with the startups they funded.
 - ## Startup Trends:
