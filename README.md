@@ -24,6 +24,18 @@ Libraries: Pandas, NumPy, Matplotlib, Seaborn
 
 ## Overview of the Project’s Design
 
+![image](https://github.com/user-attachments/assets/2b364184-e1b7-40df-a16d-7924465ac3bf)
+
+
+![image](https://github.com/user-attachments/assets/54cacf7c-60a0-4918-88af-b5c6923384d2)
+
+
+![image](https://github.com/user-attachments/assets/b1344198-6092-43ab-b8f9-166b95098d66)
+
+
+![image](https://github.com/user-attachments/assets/49dce6e8-782f-43f3-ac11-759d1ea62937)
+
+
 ![image](https://github.com/user-attachments/assets/a841a006-8a7d-4475-bbc8-cf5c89d7fc2d)
 
 
